@@ -1,0 +1,33 @@
+.frame {
+    max-width: 400px;
+    margin: 10px auto;
+    padding: 50px;
+    border-radius: 30px;
+    box-shadow: 0 10px 10px cyan;
+    text-align: center;
+}
+
+.image {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid cyan;
+    border-radius: 10px;
+    margin-inline: auto;
+}
+.image img {
+    width: 100%;
+}
+
+button {
+    padding: 10px;
+    background-color: pink;
+    color: orangered;
+    border: 1px solid orangered;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: orangered;
+    color: pink;
+    border: 1px solid pink; 
+}
